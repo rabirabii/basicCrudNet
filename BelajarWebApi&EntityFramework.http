@@ -1,0 +1,6 @@
+@BelajarWebApi_EntityFramework_HostAddress = https://localhost:5113
+
+GET {{BelajarWebApi_EntityFramework_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
